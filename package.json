@@ -1,0 +1,12 @@
+{
+  "name": "defi-llama-watcher",
+  "version": "0.1.0",
+  "description": "Monitors DeFi Llama for recently added projects.",
+  "main": "index.js",
+  "author": "Philipp Muens",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "node-fetch": "^2.6.2"
+  }
+}
