@@ -1,0 +1,30 @@
+on:
+  push:
+    paths:
+      - poke-me
+  schedule:
+    - cron: '20 */8 * * *'
+
+jobs:
+  watcher:
+    runs-on: ubuntu-latest
+    name: Monitors DeFi Llama for recently added projects
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Check DeFi Llama for changes
+        uses: actions/setup-node@v2
+        with:
+          node-version: '12.x'
+          registry-url: 'https://registry.npmjs.org'
+      - run: |
+          npm install
+          node index.js
+          git config --local user.name "Ro Bot"
+          git config --local user.email "robot@example.com"
+          git add ./data.csv
+          git commit -m "Update data.csv" || echo "No changes to commit..."
+      - name: Push updates to GitHub
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
