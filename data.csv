@@ -1,7 +1,7 @@
 ID,Name,Category,Chain(s),URL
 2277,Weld Finance,Farm,Kava,https://weld.finance
-2276,Huobi,CEX,Algorand | Avalanche | Bitcoin | EOS | Ethereum | Polygon | Solana | Tron,https://www.huobi.com
-2275,Bitfinex,CEX,Algorand | Aptos | Avalanche | Bitcoin | Cardano | Cosmos | EOS | Elrond | Ethereum | EthereumClassic | Fantom | Near | Polygon | Solana | Tezos | Tron | Zilliqa,https://www.bitfinex.com
+2276,Huobi,CEX,Algorand | Avalanche | Bitcoin | EOS | Ethereum | Litecoin | Polygon | Solana | Tron,https://www.huobi.com
+2275,Bitfinex,CEX,Algorand | Aptos | Avalanche | Bitcoin | Cardano | Cosmos | EOS | Elrond | Ethereum | EthereumClassic | Fantom | Litecoin | Near | Polygon | Solana | Tezos | Tron | Zilliqa,https://www.bitfinex.com
 2274,Kucoin,CEX,Algorand | Arbitrum | Bitcoin | EOS | Ethereum | Kucoin | Tron,https://www.kucoin.com
 2273,Deribit,CEX,Bitcoin | Ethereum | EthereumPoW | Solana,https://www.deribit.com
 2272,OKX,CEX,Arbitrum | Avalanche | Bitcoin | Ethereum | Polygon | Tron,https://www.okx.com
@@ -124,7 +124,7 @@ ID,Name,Category,Chain(s),URL
 2154,Lifinity,Dexes,Solana,https://lifinity.io/pools
 2153,LUSD ChickenBonds,Yield Aggregator,Ethereum,https://www.chickenbonds.org
 2152,Sushi Trident,Dexes,Kava | Metis | Optimism | Polygon,https://www.sushi.com/swap
-2151,Ribbon Lend,Undercollateralized Lending,Ethereum,https://www.ribbon.finance/
+2151,Ribbon Lend,Uncollateralized Lending,Ethereum,https://www.ribbon.finance/
 2150,Ribbon Earn,Options,Ethereum,https://www.ribbon.finance/
 2149,Based Next Generation,Yield,Fantom,https://next-gen.basedfinance.io
 2148,Roketo,Payments,Near,https://roke.to
@@ -204,7 +204,7 @@ ID,Name,Category,Chain(s),URL
 2074,Yupana,Lending,Tezos,https://yupana.finance/
 2073,DarkAuto,Yield Aggregator,Cronos | Dogechain,https://www.darkauto.finance/
 2072,Polyo Exchange,Dexes,Binance,https://polyo.exchange/
-2071,dAMM Finance,Undercollateralized Lending,Ethereum,https://damm.finance/
+2071,dAMM Finance,Uncollateralized Lending,Ethereum,https://damm.finance/
 2070,Interlay Collateral,Cross Chain,Interlay,https://interlay.io/
 2069,Interlay Staking,Liquid Staking,Interlay,https://interlay.io/
 2068,Powaa Protocol,Staking,Ethereum,https://powaa.xyz/
@@ -399,7 +399,7 @@ ID,Name,Category,Chain(s),URL
 1878,ApeX Protocol,Dexes,Arbitrum,https://app.apex.exchange/trade
 1877,Fusion Dex,Dexes,EthereumClassic | Fantom | Nova Network,https://fusion.novanetwork.io
 1876,VeRocket,Dexes,VeChain,https://app.verocket.com
-1875,Atlendis,Lending,Polygon,https://app.atlendis.io
+1875,Atlendis,Uncollateralized Lending,Polygon,https://app.atlendis.io
 1874,Lending Pond,Lending,Cardano,https://lendingpond.app
 1873,Torches,Lending,Kucoin,https://www.torches.finance/
 1872,Rift Finance,Yield,Aurora | Ethereum,https://rift.finance
@@ -487,7 +487,7 @@ ID,Name,Category,Chain(s),URL
 1789,Gale,Staking,Binance,https://gale.network
 1788,Invariant,Dexes,Solana,https://invariant.app
 1787,Diamond Protocol,Yield,Arbitrum | Ethereum | Optimism,https://dmo.finance
-1786,Credix,Undercollateralized Lending,Solana,https://credix.finance
+1786,Credix,Uncollateralized Lending,Solana,https://credix.finance
 1785,VersaGames,Gaming,Cronos,https://versagames.io
 1784,Tenderize,Liquid Staking,Arbitrum | Ethereum,https://tenderize.me
 1783,Ladex Exchange,Dexes,Lachain,https://ladex.exchange
@@ -637,7 +637,7 @@ ID,Name,Category,Chain(s),URL
 1638,DDDX,Dexes,Binance,https://dddx.io
 1637,BlueBit,Yield Aggregator,Aurora,https://bluebit.fi/
 1636,Bolide,Yield Aggregator,Binance,https://bolide.fi/
-1635,Clearpool,Undercollateralized Lending,Ethereum | Polygon,https://clearpool.finance
+1635,Clearpool,Uncollateralized Lending,Ethereum | Polygon,https://clearpool.finance
 1634,Solace,Insurance,Aurora | Ethereum | Polygon,https://solace.fi/
 1633,BencuFi,Lending,Metis,https://bencu.fi/
 1632,SMBSwap,Dexes,Binance,https://smbswap.finance/
@@ -1147,7 +1147,7 @@ ID,Name,Category,Chain(s),URL
 1111,Wisteria Swap,Yield,Binance,https://wisteriaswap.com
 1110,Market,Lending,Fantom | Polygon,https://www.market.xyz
 1109,APWine,Yield Aggregator,Ethereum | Polygon,https://apwine.fi
-1108,Gearbox,Undercollateralized Lending,Ethereum,https://gearbox.fi
+1108,Gearbox,Leveraged Farming,Ethereum,https://gearbox.fi
 1107,WaterLoan,Lending,CSC | smartBCH,https://waterloan.finance
 1106,Chad Finance,Yield,Fantom,https://www.chadfinance.io/
 1105,Bourbon DAO,Reserve Currency,Binance,https://www.bourbondao.com/
@@ -1522,7 +1522,7 @@ ID,Name,Category,Chain(s),URL
 706,YSL.IO,Yield,Binance,https://ysl.io
 705,TTswap,Dexes,ThunderCore,https://ttswap.space/#/swap
 704,Chainge Finance,Dexes,Fusion,https://www.chainge.finance
-703,Goldfinch,Undercollateralized Lending,Ethereum,https://goldfinch.finance
+703,Goldfinch,Uncollateralized Lending,Ethereum,https://goldfinch.finance
 702,Coffin Finance,Algo-Stables,Fantom,https://coffin.finance
 701,Behodler,Dexes,Ethereum,https://behodler.io
 700,Poof Cash,Lending,Celo,https://www.poof.cash
@@ -1638,7 +1638,7 @@ ID,Name,Category,Chain(s),URL
 590,Parrot Defi,Farm,Arbitrum | Harmony | IoTeX | Polygon,https://parrotdefi.com
 589,Strike,Lending,Ethereum,https://strike.org
 588,Mobius Money,Dexes,Celo,https://www.mobius.money
-587,Maple,Undercollateralized Lending,Ethereum | Solana,https://www.maple.finance
+587,Maple,Uncollateralized Lending,Ethereum | Solana,https://www.maple.finance
 586,Tidal Finance,Insurance,Polygon,https://tidal.finance
 585,Popsicle Finance,Yield,Binance | Ethereum | Fantom,https://popsicle.finance
 584,1Swap,Dexes,Moonriver,https://1swap.fi
@@ -1714,7 +1714,7 @@ ID,Name,Category,Chain(s),URL
 512,Feeder Finance,Yield,Binance | Fantom,https://www.feeder.finance
 511,Frost Finance,Yield,Avalanche,https://frostfinance.farm
 510,Gaj Finance,Yield,Avalanche | Polygon,https://gaj.finance
-509,Centrifuge,Undercollateralized Lending,Ethereum,https://tinlake.centrifuge.io
+509,Centrifuge,Uncollateralized Lending,Ethereum,https://tinlake.centrifuge.io
 508,KlaySwap,Dexes,Klaytn,https://klayswap.com/dashboard
 507,DefiBox,Dexes,Binance | EOS | Wax,https://defibox.io
 506,Tetu Earn,Dexes,Binance | Ethereum | Fantom | Polygon,http://tetu.io
@@ -2041,7 +2041,7 @@ ID,Name,Category,Chain(s),URL
 169,Basis Cash,Algo-Stables,Ethereum,https://basis.cash/
 168,Dev Protocol,Staking,Ethereum,https://devprtcl.com/
 167,PieDAO,Indexes,Ethereum,https://www.piedao.org/
-166,TrueFi,Undercollateralized Lending,Ethereum,https://truefi.io/
+166,TrueFi,Uncollateralized Lending,Ethereum,https://truefi.io/
 165,Cover Protocol,Insurance,Ethereum,https://www.coverprotocol.com/
 164,ValueDefi,Dexes,Binance,https://valuedefi.io/
 163,ForTube,Lending,Binance | Ethereum | IoTeX | OKExChain | Polygon,https://for.tube/
