@@ -1,4 +1,8 @@
 ID,Name,Category,Chain(s),URL
+4066,Minu,Farm,Binance,https://www.minucoin.com
+4065,iLend,Lending,Injective,https://ilend.xyz
+4064,Biokript,Dexes,Binance,https://biokript.com
+4063,Peapods Finance,Yield,Ethereum,https://peapods.finance
 4062,DeltaSwap,Dexes,Arbitrum,https://gammaswap.com
 4061,Meridian Lend,Lending,Telos,https://www.meridianfinance.net
 4060,PRINT3R,Derivatives,Base,https://aptoslaunch.io
@@ -8,7 +12,7 @@ ID,Name,Category,Chain(s),URL
 4056,Dojoswap LSD,Liquid Staking,Injective,https://dojo.trading
 4055,Fyde Protocol,Services,Ethereum,http://www.fyde.fi
 4054,INIT Capital,Lending,Mantle,https://app.init.capital
-4053,Nostra Pools,Dexes,Starknet,https://app.nostra.finance/swap
+4053,Nostra Pools,Dexes,Starknet,https://app.nostra.finance/pools
 4052,Minterest,Lending,Ethereum | Mantle,https://minterest.com
 4051,ApplePie,Farm,Binance,https://applepies.co
 4050,FerdyFlip,Prediction Market,Avalanche | Base,https://www.ferdyflip.xyz
@@ -175,6 +179,7 @@ ID,Name,Category,Chain(s),URL
 3871,Wildcat Protocol,Uncollateralized Lending,Ethereum,https://wildcat.finance
 3870,Beta Finance V2,Lending,Ethereum,https://www.betafinance.org/
 3869,Charm Finance V2,Liquidity manager,Arbitrum | Base | Boba | Ethereum | Optimism | Polygon,https://alpha.charm.fi/vaults
+3868,Ascent Exchange V3,Dexes,Horizen EON,https://ascent.exchange/swap?currency0=ETH
 3867,Ascent Exchange V1,Dexes,Horizen EON,https://ascent.exchange/swap?currency0=ETH
 3866,Rainbow Bridge,Chain,Aurora | Ethereum | Near,https://rainbowbridge.app/transfer
 3865,Hatom Booster,Yield,Elrond,https://app.hatom.com/
@@ -378,7 +383,7 @@ ID,Name,Category,Chain(s),URL
 3655,Simps,SoFi,Base,https://www.simps.com/
 3654,VaporDex V2,Dexes,Avalanche,https://www.vapordex.io
 3653,Mellow,SoFi,Base,https://mellow.to/
-3652,Nostra alpha,Lending,Starknet,https://alpha.nostra.finance/
+3652,Nostra Money Market Alpha,Lending,Starknet,https://alpha.nostra.finance/
 3651,Loanshark Core,Lending,Scroll,https://loanshark.tech/
 3650,DX25,Dexes,Elrond,https://dx25.com/
 3649,Sui Pearl,Yield Aggregator,Sui,https://suipearl.fi/
@@ -631,7 +636,7 @@ ID,Name,Category,Chain(s),URL
 3399,Bridge LZ,Bridge,Base | Ethereum | Linea | Optimism,https://twitter.com/bridge_lz
 3398,v2swap,Dexes,Op_Bnb,https://www.v2swap.io
 3397,Binary Swap,Dexes,Op_Bnb,https://www.binaryswap.io/#/swap
-3396,LogX,Derivatives,Kroma | Linea | Mantle,https://www.logx.trade
+3396,LogX,Derivatives,Kroma | Linea | Manta | Mantle | Telos,https://www.logx.trade
 3395,OneRing V2,Yield,Optimism,https://www.onering.tools
 3394,IMPLS,Yield Aggregator,Pulse,https://impls.finance
 3393,TermFinance,Lending,Ethereum,https://term.finance
@@ -704,7 +709,7 @@ ID,Name,Category,Chain(s),URL
 3326,MUFEX,Derivatives,Arbitrum | Binance | Mantle | Polygon,https://www.mufex.finance
 3325,Gambit Trade,Derivatives,Arbitrum | zkSync Era,https://gambit.trade
 3324,Predy V5,Derivatives,Arbitrum,https://www.predy.finance
-3323,NAVI Protocol,Lending,Sui,https://www.naviprotocol.io/
+3323,NAVI Lending,Lending,Sui,https://www.naviprotocol.io/
 3322,Synthswap V2,Dexes,Base,https://synthswap.io
 3321,Revoke.cash,Services,Optimism,https://revoke.cash/
 3320,Safe,Services,Optimism,https://safe.global/
@@ -1195,7 +1200,7 @@ ID,Name,Category,Chain(s),URL
 2828,ThunderCore Staking,Staking Pool,ThunderCore,https://pos-staking.thundercore.com
 2827,SatoshiCoreSwap,Dexes,CORE,https://satoshicoreswap.com
 2826,CZODIAC,Yield,Binance,https://czodiac.com
-2825,Nostra mainnet,Lending,Starknet,https://nostra.finance
+2825,Nostra Money Market,Lending,Starknet,https://nostra.finance
 2824,ABC Pool,Staking Pool,Conflux,https://confluxpos.cn
 2823,ShadeSwap,Dexes,Secret,https://shadeprotocol.io
 2822,Bonkswap,Dexes,Solana,https://bonkswap.io
@@ -2254,7 +2259,7 @@ ID,Name,Category,Chain(s),URL
 1741,Starbank,Dexes,Astar,https://test.starbank.finance
 1740,LiNEAR Protocol,Liquid Staking,Near,https://linearprotocol.org
 1739,Valerian,Yield,Astar,https://valerianprotocol.com
-1738,Bifrost Liquid Staking,Liquid Staking,Astar | Bifrost | Ethereum | Filecoin,https://bifrost.finance
+1738,Bifrost Liquid Staking,Liquid Staking,Astar | Bifrost | Ethereum | Filecoin | Manta,https://bifrost.finance
 1737,EmberSwap,Dexes,smartBCH,https://www.emberswap.com
 1736,Muuu Finance,Yield,Astar,https://muuu.finance
 1735,BCHPad,Launchpad,smartBCH,https://www.bchpad.cash
@@ -3118,7 +3123,7 @@ ID,Name,Category,Chain(s),URL
 851,Nest Protocol Staking,Oracle,Binance | Ethereum | Kucoin | Polygon,https://nestprotocol.org
 850,Polyroll,Yield,Polygon,https://polyroll.org
 849,Capital DAO,Services,Ethereum,https://capital-dao.io
-848,Talent Protocol,Services,Celo,https://www.talentprotocol.com
+848,Talent Protocol V1,Services,Celo,https://www.talentprotocol.com
 847,PhotonSwap Finance,Dexes,Cronos | Evmos | Kava,https://photonswap.finance
 846,KLend,Lending,Binance | OKExChain,https://klend.finance/app
 845,Axial,Dexes,Avalanche,https://www.axial.exchange
