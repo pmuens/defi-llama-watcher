@@ -46,7 +46,7 @@ ID,Name,Category,Chain(s),URL
 5149,Cygnus clTON,Liquid Staking,TON,https://cygnus.finance
 5148,ElectroSwap V3,Dexes,Electroneum,https://app.electroswap.io/swap
 5147,ElectroSwap V2,Dexes,Electroneum,https://app.electroswap.io/swap
-5146,CrossCurve (by EYWA),Cross Chain,Arbitrum | Avalanche | Base | Binance | Ethereum | Optimism | Polygon | xDai,https://crosscurve.fi
+5146,CrossCurve (by EYWA),Cross Chain,Arbitrum | Avalanche | Base | Binance | Blast | Ethereum | Linea | Mantle | Optimism | Polygon | Taiko | xDai,https://crosscurve.fi
 5145,IPOR Fusion,Yield Aggregator,Arbitrum | Ethereum,https://www.ipor.io
 5144,Kadena Cabinet,Governance Incentives,Kadena,https://www.kadena.io/cabinet
 5143,Lombard Vault,Yield,Ethereum,https://www.lombard.finance/app/vault
@@ -454,7 +454,7 @@ ID,Name,Category,Chain(s),URL
 4739,Q Infinity,Farm,Q Protocol,https://engage.qdev.li/
 4738,Tradoor,Derivatives,TON,https://tradoor.io
 4737,Coinbase Commerce,Payments,N/A,https://www.coinbase.com/commerce
-4736,DoubleUp Pumpup,Launchpad,Sui,https://www.doubleup.fun/pumpup
+4736,DoubleUp Pumpup,Yield Aggregator,Sui,https://www.doubleup.fun/pumpup
 4735,Syrup.fi,Yield,Ethereum,https://syrup.fi/
 4734,stabble,Dexes,Solana,https://stabble.org
 4733,wen markets,Launchpad,Polygon,https://wen.markets
@@ -606,7 +606,7 @@ ID,Name,Category,Chain(s),URL
 4587,QuantoSwap,Dexes,Ethereum,https://quantoswap.org
 4586,Equation V3,Derivatives,Arbitrum,https://equation.org
 4585,Endurance Bridge,Bridge,Endurance,https://endurance-bridge.fusionist.io/
-4584,Ape.Store,Launchpad,Base,https://ape.store/
+4584,Ape.Store,Launchpad,Base | Ethereum,https://ape.store/
 4583,Keller Finance V3,Dexes,Scroll,https://kellerfinance.app
 4582,FlowX V3,Dexes,Sui,https://flowx.finance
 4581,Tokan Exchange,Dexes,Scroll,https://tokan.exchange/
@@ -741,7 +741,7 @@ ID,Name,Category,Chain(s),URL
 4451,Busta Exchange,Dexes,Binance,
 4450,Oxbull,Launchpad,Binance,https://oxbull.tech/app
 4449,Pump,Launchpad,N/A,https://www.pump.fun/
-4448,Superform,Yield Aggregator,Arbitrum | Avalanche | Base | Binance | Ethereum | Fantom | Optimism | Polygon,https://www.superform.xyz/
+4448,Superform,Yield Aggregator,Arbitrum | Avalanche | Base | Binance | Blast | Ethereum | Fantom | Linea | Optimism | Polygon,https://www.superform.xyz/
 4447,Rage Trade,Derivatives,N/A,https://www.rage.trade
 4446,Synthetix V3,Derivatives,Arbitrum | Base,https://synthetix.io
 4445,Bevmswap,Dexes,BEVM,https://bevmswap.xyz/liquidity
@@ -812,7 +812,7 @@ ID,Name,Category,Chain(s),URL
 4380,PoWH3D,Farm,Ethereum,
 4379,POWERCITY Core Protocol,Farm,Pulse,https://www.core.powercity.io/
 4378,BOB Fusion,Farm,Ethereum,https://gobob.xyz
-4377,A51 Finance V3,Liquidity manager,Arbitrum | Base | Binance | Blast | Linea | Manta | Optimism | Polygon | Polygon zkEVM | Scroll,https://a51.finance
+4377,A51 Finance V3,Liquidity manager,Arbitrum | Base | Binance | Blast | Linea | Manta | Mode | Optimism | Polygon | Polygon zkEVM | Scroll,https://a51.finance
 4376,POWERCITY Earn Protocol,CDP,Pulse,https://www.earn.powercity.io/
 4375,BloctoSwap,Dexes,Ethereum,https://swap.blocto.app/#/
 4374,Openswap VSL,Dexes,RSS3,https://openswap.fi/pools
