@@ -466,11 +466,11 @@ ID,Name,Category,Chain(s),URL
 5012,Unidex Agg Perp,Derivatives,N/A,https://unidex.exchange
 5011,Lisk Bridge,Chain,Ethereum,https://lisk.com
 5010,The Graph,Services,N/A,https://thegraph.com/
-5009,Tether,Services,N/A,https://tether.to/en/
-5008,Circle,Services,N/A,https://www.circle.com/en/
+5009,Tether,Stablecoin Issuer,N/A,https://tether.to/en/
+5008,Circle,Stablecoin Issuer,N/A,https://www.circle.com/en/
 5007,Helio,Payments,N/A,https://app.hel.io/
-5006,DEXTools,Services,N/A,https://www.dextools.io/marketplace
-5005,manifold.xyz,Services,N/A,https://www.manifold.xyz/
+5006,DEXTools,Coins Tracker,N/A,https://www.dextools.io/marketplace
+5005,manifold.xyz,NFT Launchpad,N/A,https://www.manifold.xyz/
 5004,WaxDAO,Services,Wax,https://waxdao.io
 5003,defi.money,CDP,Arbitrum | Base | Optimism,https://defi.money/
 5002,Lulo,Yield Aggregator,Solana,https://lulo.fi/
@@ -485,7 +485,7 @@ ID,Name,Category,Chain(s),URL
 4993,Drop,Liquid Staking,Neutron,https://drop.money/
 4992,Paxe Protocol,Farm,Binance,https://www.paxe.io
 4991,Swell BTC LRT,Yield Aggregator,Ethereum,https://app.swellnetwork.io/stake/swbtc
-4990,DEX Screener,Services,N/A,https://dexscreener.com
+4990,DEX Screener,Coins Tracker,N/A,https://dexscreener.com
 4989,Velo Finance,Dexes,Binance,https://velofinance.io
 4988,JVault,Farm,TON,https://jvault.xyz
 4987,Opus,CDP,Starknet,https://www.opus.money
@@ -659,7 +659,7 @@ ID,Name,Category,Chain(s),URL
 4816,WoodSwap,Dexes,RSK,https://woodswap.org
 4815,WBROCK Staking,Staking Pool,Bitrock | Ethereum,https://www.bit-rock.io/
 4814,ElectroWizy,Yield,Polygon,https://www.electrowizy.com
-4813,Moonshot,Launchpad,N/A,https://dexscreener.com/moonshot
+4813,Moonshot,Trading App,N/A,https://dexscreener.com/moonshot
 4812,Threshold thUSD,CDP,Ethereum,https://app.thresholdusd.org
 4811,MintSwap Finance,Dexes,Mint,https://www.mintswap.finance/
 4810,Chiliz Governance Staking,Chain,Chiliz,https://governance.chilizchain.com
@@ -694,7 +694,7 @@ ID,Name,Category,Chain(s),URL
 4780,Tivel Finance,Options,Scroll | ZKsync Era,https://tivel.finance
 4779,SOFA.org,Options,Arbitrum | Binance | Ethereum,https://www.sofa.org
 4778,Infinity Hedge Fund,Farm,Base,https://app.infinityhedgefund.com/#/dashboard
-4777,Clusters,Services,N/A,https://clusters.xyz
+4777,Clusters,Domains,N/A,https://clusters.xyz
 4776,Mutuari,Lending,Bahamut,https://mutuari.com
 4775,Fenix Standard Pools,Dexes,Blast,https://www.fenixfinance.io
 4774,Kim Vaults,Yield,Mode,https://app.kim.exchange
@@ -982,7 +982,7 @@ ID,Name,Category,Chain(s),URL
 4491,TonsOfFriends,SoFi,TON,https://twitter.com/TonsOfFriends
 4490,Dymension,Services,N/A,https://portal.dymension.xyz/
 4489,GammaSwap,Options,Arbitrum | Base | Ethereum,https://app.gammaswap.com/
-4488,Ethereum,Services,N/A,https://ethereum.org/en/
+4488,Ethereum,Chain,N/A,https://ethereum.org/en/
 4487,Hinkal,Privacy,Arbitrum | Avalanche | Base | Binance | Blast | Ethereum | Optimism | Polygon,https://hinkal.pro
 4486,Olive Network,Farm,Arbitrum | Ethereum,https://www.olivenetwork.xyz
 4485,Qrolli,SoFi,Polygon,https://qrolli.com
@@ -1584,7 +1584,7 @@ ID,Name,Category,Chain(s),URL
 3880,StarkDeFI,Dexes,Starknet,https://www.starkdefi.com
 3879,CherryLend,Lending,Cardano,https://cherrylend.org
 3878,Thick,Dexes,Arbitrum | Base | Fantom,https://eliteness.network/thick
-3877,Solana Name Service,Services,N/A,https://www.sns.id
+3877,Solana Name Service,Domains,N/A,https://www.sns.id
 3876,Button Wrappers,CDP,Arbitrum | Avalanche | Base | Ethereum,https://tranche.button.finance
 3875,Aimbot,Telegram Bot,N/A,https://www.aim-bot.app/
 3874,ISSUAA,Dexes,Scroll,https://app.issuaa.org/
@@ -1614,7 +1614,7 @@ ID,Name,Category,Chain(s),URL
 3849,Button Tranche,Yield,Ethereum,https://www.button.finance
 3848,BackBone Labs,Liquid Staking,Archway | Chihuahua | Injective | Juno | Kujira | Migaloo | Osmosis | Terra2,https://backbonelabs.io
 3847,LlamaSwap,DEX Aggregator,N/A,https://swap.defillama.com
-3846,deBridge,Services,N/A,https://debridge.finance
+3846,deBridge,Bridge,N/A,https://debridge.finance
 3845,Oceanos,CDP,Manta,https://oceanos.finance
 3844,zkUSD,CDP,Linea | Neon,https://zkusd.money
 3843,Clink,SoFi,Base,https://clinkfi.io
@@ -2314,7 +2314,7 @@ ID,Name,Category,Chain(s),URL
 3143,Xana,Services,N/A,https://xana.net/
 3142,Primal,Services,N/A,https://www.getprimal.com/app
 3141,DeFiato,Services,N/A,https://defiato.com/
-3140,Avalanche,Services,N/A,https://www.avax.network/
+3140,Avalanche,Chain,N/A,https://www.avax.network/
 3139,ImmutableX,NFT Marketplace,Ethereum,https://www.immutable.com/
 3138,Step App,Services,N/A,https://step.app/
 3137,My Neighbor Alice,Services,N/A,https://www.myneighboralice.com/
@@ -2914,7 +2914,7 @@ ID,Name,Category,Chain(s),URL
 2522,Nouns,Services,N/A,https://nouns.wtf
 2521,Ethereum Foundation,Services,N/A,https://ethereum.foundation
 2520,Gnosis DAO,Services,N/A,https://www.gnosis.io
-2519,ENS,Services,N/A,https://ens.domains
+2519,ENS,Domains,N/A,https://ens.domains
 2518,Gitcoin,Services,N/A,https://gitcoin.co
 2517,ParaSpace Lending V1,Lending,Arbitrum | Ethereum | Moonbeam | Polygon | ZKsync Era,https://para.space
 2516,Phezzan Protocol,Dexes,Kava,https://phezzan.xyz
