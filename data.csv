@@ -1,4 +1,5 @@
 ID,Name,Category,Chain(s),URL
+6182,Fastlane,MEV,N/A,https://www.fastlane.xyz
 6181,Orki Finance,CDP,Swellchain,https://app.orki.finance/
 6180,Accumulated Finance Lending,Lending,Velas,https://accumulated.finance/lend
 6179,THENA INTEGRAL,Dexs,N/A,https://www.thena.fi
@@ -395,7 +396,6 @@ ID,Name,Category,Chain(s),URL
 5779,PiperX V2,Dexs,Story,https://app.piperx.xyz/
 5778,Story,Chain,N/A,https://www.story.foundation/
 5777,SoSoValue Basis,Basis Trading,Base,https://ssi.sosovalue.com
-5776,Dopin Protocol,Dexs,Taraxa,https://dopinfi.xyz
 5775,Infrared Finance,Liquid Staking,Berachain,https://infrared.finance
 5774,Magma,Dexs,Sui,https://magmafinance.io/
 5773,Aarna Protocol,Yield,Ethereum,https://www.aarna.ai
@@ -623,7 +623,7 @@ ID,Name,Category,Chain(s),URL
 5550,Tren Finance,CDP,Arbitrum,https://www.tren.finance/
 5549,Lander,Lending,Binance,https://lander.finance/
 5548,Neutral Trade,Onchain Capital Allocator,Solana,https://www.neutral.trade/
-5547,Lagoon,Onchain Capital Allocator,Arbitrum | Base | Ethereum,https://lagoon.finance
+5547,Lagoon,Onchain Capital Allocator,Arbitrum | Base | Berachain | Ethereum | Unichain,https://lagoon.finance
 5546,Diamondswap,Dexs,Avalanche | Base | Binance | Ethereum | Odyssey,https://diamondswap.com/exchange
 5545,Theo Network,Basis Trading,Arbitrum | Base | Ethereum | Linea,https://theo.xyz/
 5544,Elys DEX,Dexs,Elys,https://app.elys.network/
@@ -1285,7 +1285,7 @@ ID,Name,Category,Chain(s),URL
 4876,Fixes Launchpad,Launchpad,Flow,https://fixes.world
 4875,Kernel Protocol,Liquid Restaking,Ethereum,https://kernelprotocol.com
 4874,re.al protocol,RWA,re.al,https://www.re.al
-4873,Midas RWA,RWA,Base | Ethereum | Etherlink | Sapphire,https://midas.app
+4873,Midas RWA,RWA,Base | Ethereum | Etherlink | RSK | Sapphire,https://midas.app
 4872,Palmy Finance,Lending,Oasys,https://app.palmy.finance/
 4871,Yaka V2,Dexs,Sei,https://yaka.finance
 4870,Satoshi DEX,Dexs,Stacks,https://satoshidex.ai
@@ -1380,7 +1380,7 @@ ID,Name,Category,Chain(s),URL
 4779,SOFA.org,Options,Arbitrum | Binance | Ethereum | Polygon,https://www.sofa.org
 4778,Infinity Hedge Fund,Farm,Base,https://app.infinityhedgefund.com/#/dashboard
 4777,Clusters,Domains,N/A,https://clusters.xyz
-4776,Mutuari,Lending,Bahamut,https://mutuari.com
+4776,Percentme,Lending,Bahamut,https://percent.me
 4775,Fenix Standard Pools,Dexs,Blast,https://www.fenixfinance.io
 4774,Kim Vaults,Yield,Mode,https://app.kim.exchange
 4773,Macaron StableSwap,Dexs,Bitlayer,https://www.macaron.xyz
