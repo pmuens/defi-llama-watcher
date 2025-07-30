@@ -1,8 +1,11 @@
 ID,Name,Category,Chain(s),URL
+6503,Bracket LST,Liquid Staking,Ethereum,https://app.bracket.fi/
+6502,Etherex CL,Dexs,Linea,https://etherex.finance/
+6501,Etherex Legacy,Dexs,Linea,https://etherex.finance/
 6500,Parallel Protocol V3,CDP,Base | Ethereum | Hyperliquid L1 | Sonic,https://parallel.best/
 6499,Orca Wavebreak,Launchpad,N/A,https://www.orca.so/tokens
 6498,Eventum Bridge,Canonical Bridge,Arbitrum,https://evedex.com/en-US/
-6497,Evedex,Dexs,Eventum,https://exchange.evedex.com/en-US/
+6497,Evedex,Derivatives,Eventum,https://exchange.evedex.com/en-US/
 6496,Honeypop DEX,Dexs,Scroll,https://honeypop.app
 6495,Prophet.fun,Prediction Market,Solana,https://prophet.fun/
 6494,Flow Lending,Lending,Cardano,https://flowcardano.org/app
@@ -475,7 +478,7 @@ ID,Name,Category,Chain(s),URL
 6012,Bodega Market,Prediction Market,Cardano,https://www.bodegamarket.io
 6011,Fuel Staking,Chain,N/A,https://app.fuel.network/staking/on-fuel
 6010,OrangeX,CEX,Bitcoin | Ethereum,https://www.orangex.com
-6009,Stable Jack V2,Yield,Avalanche | Sonic,https://www.stablejack.xyz
+6009,Stable Jack V2,Yield,Avalanche | Goat | Sonic,https://www.stablejack.xyz
 6008,Decentralized Euro,CDP,Ethereum,https://deuro.com/
 6007,DNA,Farm,World Chain,https://dnatoken.io/
 6006,Golden Otter Hub,Farm,World Chain,https://otter.trading
@@ -892,7 +895,7 @@ ID,Name,Category,Chain(s),URL
 5589,dTRINITY dUSD,Partially Algorithmic Stablecoin,Fraxtal | Sonic,https://app.dtrinity.org/dusd/
 5588,YieldFi,Yield Aggregator,Arbitrum | Base | Ethereum | Katana | Optimism | Plume Mainnet | Sonic,https://yield.fi/
 5587,Coinbase Wallet,Wallets,N/A,https://wallet.coinbase.com/
-5586,SatLayer,Anchor BTC,BOB | Babylon Genesis | Berachain | Binance | Bitlayer | Ethereum,https://satlayer.xyz/
+5586,SatLayer,Anchor BTC,BOB | Babylon Genesis | Berachain | Binance | Bitlayer | Ethereum | TAC,https://satlayer.xyz/
 5585,Omega,Leveraged Farming,Mantle,https://app.omega.xyz/
 5584,Astrol,Lending,Eclipse,https://astrol.io/
 5583,ILoop,Lending,Solana,https://app.iloop.finance/
@@ -2650,7 +2653,7 @@ ID,Name,Category,Chain(s),URL
 3793,Notional V3,Lending,Arbitrum | Ethereum,https://notional.finance
 3792,Voodoo Trade Base,Derivatives,Base,https://voodoo.trade
 3791,Maya Protocol,Cross Chain Bridge,Arbitrum | Bitcoin | Dash | Ethereum | Kujira | Mayachain | Radix | Thorchain,https://www.mayaprotocol.com
-3790,FrankenCoin,CDP,Ethereum,https://frankencoin.com
+3790,FrankenCoin,CDP,Arbitrum | Avalanche | Base | Ethereum | Optimism | Polygon | Sonic | xDai,https://frankencoin.com
 3789,Hummus Weighted,Yield,Metis,https://app.hummus.exchange/pool
 3788,zkSync Era txBridge,Canonical Bridge,Ethereum,https://portal.txsync.io/bridge
 3787,Starknet Bridge,Canonical Bridge,Ethereum,https://starkgate.starknet.io
@@ -4927,7 +4930,7 @@ ID,Name,Category,Chain(s),URL
 1464,Tropykus RSK,Lending,RSK,https://app.tropykus.com
 1463,Comet Finance,Algo-Stables,Fantom,
 1462,deBridge,Bridge,Arbitrum | Binance | Ethereum | Heco | Polygon | Sei,https://debridge.finance
-1461,WOOFi Swap,Dexs,Arbitrum | Avalanche | Base | Berachain | Binance | Ethereum | Fantom | Linea | Mantle | Optimism | Polygon | Polygon zkEVM | Sonic | zkSync Era,http://fi.woo.org/
+1461,WOOFi Swap,Dexs,Arbitrum | Avalanche | Base | Berachain | Binance | Ethereum | Fantom | Hyperliquid L1 | Linea | Mantle | Optimism | Polygon | Polygon zkEVM | Sonic | zkSync Era,http://fi.woo.org/
 1460,ValleySwap,Dexs,Oasis,
 1459,ELYFI,RWA,Binance | Ethereum | Klaytn,
 1458,Equilibrium Lending,Lending,Equilibrium,https://app.equilibrium.io/market
@@ -6069,9 +6072,9 @@ ID,Name,Category,Chain(s),URL
 255,Fei Protocol,Algo-Stables,Ethereum,https://fei.money/
 254,Bunny,Yield,Binance | Polygon,https://pancakebunny.finance/
 253,BiFi,Lending,Avalanche | Bifrost Network | Binance | Ethereum | Klaytn,https://bifi.finance/
-251,Parallel Protocol V2,CDP,Base | Ethereum | Fantom | Hyperliquid L1 | Polygon | Sonic,https://mimo.capital
+251,Parallel Protocol V2,CDP,Ethereum | Fantom | Polygon,https://mimo.capital
 250,BasketDAO,Indexes,Ethereum,https://basketdao.org/
-249,StakeDAO,Yield,Arbitrum | Avalanche | Binance | Ethereum | Polygon,https://stakedao.org/
+249,StakeDAO,Yield,Arbitrum | Avalanche | Base | Ethereum | Fraxtal | Linea | Optimism | Polygon | Sonic | xDai,https://stakedao.org/
 247,Jarvis Network,Derivatives,Arbitrum | Avalanche | Binance | Optimism | Polygon | xDai,https://jarvis.network/
 246,Pangolin V2,Dexs,Avalanche | Flare | Hedera | Songbird,https://app.pangolin.exchange/
 244,WePiggy,Lending,Arbitrum | Aurora | Binance | Ethereum | Harmony | Heco | Moonbeam | Moonriver | OKExChain | Oasis | Optimism | Polygon,https://www.wepiggy.com/
