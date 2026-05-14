@@ -13,7 +13,7 @@ ID,Name,Category,Chain(s),URL
 7815,Tigris Mezo V3,Dexs,Mezo,https://mezo.org/explore/pools
 7812,Orai Quant Terminal,Onchain Capital Allocator,Arbitrum,https://quant.orai.io/vault
 7808,Monolith Market,CDP,Ethereum,https://monolith.market
-7807,Hermetica HBTC,Anchor BTC,Stacks,https://hermetica.fi
+7807,Hermetica hBTC,Anchor BTC,Stacks,https://hermetica.fi
 7806,RISEx,Derivatives,RISE,https://www.rise.trade/en
 7800,Anthias Labs,Risk Curators,Base,https://anthias.xyz
 7797,Sova,Onchain Capital Allocator,Base,https://sova.io/
@@ -21,6 +21,7 @@ ID,Name,Category,Chain(s),URL
 7795,Alvara,Yield Aggregator,Base | Ethereum,https://alvara.xyz
 7793,Zama,Privacy,Ethereum,https://www.zama.org/
 7792,Backed AAO,Launchpad,MegaETH, 
+7791,Thaw,Luck Games,Hyperliquid L1, 
 7790,HypeZion Finance,CDP,Hyperliquid L1, 
 7789,Plasma One,Crypto Card Issuer,Plasma,https://www.plasma.to/one
 7787,Tizi,Yield Aggregator,Base, 
@@ -211,7 +212,6 @@ ID,Name,Category,Chain(s),URL
 7270,Mezo Borrow,CDP,Mezo,https://mezo.org/
 7269,DipCoin Vault,Yield,Sui,https://www.dipcoin.io/vault
 7268,Brasa Finance,Liquid Staking,Fogo,https://brasa.finance
-7267,SomeSwap AMM,Dexs,Monad,https://someswap.org/
 7266,Hastra,RWA,Ethereum | Solana,https://hastra.io/
 7265,Prism DEX,Dexs,MegaETH,https://prismfi.cc?ref=L9VP4U2Z
 7263,Stroom,Liquid Staking,Bitcoin,https://stroom.network/
@@ -909,7 +909,7 @@ ID,Name,Category,Chain(s),URL
 5918,Golden Finance,Derivatives,ZetaChain,
 5917,Unchain X,Dexs,Binance,https://unchainx.io
 5916,Bumpin Trade,Derivatives,Solana,https://www.bumpin.trade/
-5915,YO Protocol,Yield Aggregator,Arbitrum | Base | Ethereum,https://app.yo.xyz?ref=defillama
+5915,YO Protocol,Yield Aggregator,Arbitrum | Base | Ethereum | Solana,https://app.yo.xyz?ref=defillama
 5913,exit.tech,Liquidity Manager,Arbitrum,
 5909,GoPlus Locker V3,Token Locker,Arbitrum | Base | Binance | Ethereum,https://gopluslabs.io
 5908,Witty,Gaming,Abstract,https://www.witty.game/
@@ -1844,7 +1844,6 @@ ID,Name,Category,Chain(s),URL
 4108,Avantis,Derivatives,Base,https://www.avantisfi.com/referral?code=DefiLlama
 4107,FlashTrade,Derivatives,Solana,https://www.flash.trade?referral=defillama
 4106,Bluewhale,Yield,Klaytn,https://bwpm.io
-4105,Anzen V1,RWA,Ethereum,https://anzen.finance
 4103,Prime Staked ETH,Liquid Restaking,Ethereum,https://app.primestaked.com/#/restake
 4102,Pingu Exchange,Derivatives,Arbitrum | Monad,https://pingu.exchange
 4098,Zearn Protocol,Liquid Staking,Bitlayer | ZetaChain,https://zearn.xyz/
@@ -2038,7 +2037,6 @@ ID,Name,Category,Chain(s),URL
 3731,Xave Finance,Dexs,Avalanche | Ethereum | Polygon,https://xave.co
 3729,B2B,Algo-Stables,Binance,https://b2b.money
 3722,Hipo,Liquid Staking,TON,https://hipo.finance
-3716,Swapsicle V2,Dexs,Mantle | Taiko | Telos,https://www.swapsicle.io
 3715,Realperp,Derivatives,Manta,https://realperp.com
 3714,SharkSwap DEX,Dexs,Base,
 3711,Volo Vault,Risk Curators,Sui,https://www.volosui.com/
@@ -2182,6 +2180,7 @@ ID,Name,Category,Chain(s),URL
 3425,Scallop Pool,Yield,Solana,https://scallop.io
 3421,Mendi Finance,Lending,Linea,https://malda.xyz/
 3415,LuigiSwap,Dexs,Op_Bnb | Scroll,
+3413,FourDex,Dexs,Op_Bnb,
 3409,SwapBased Concentrated Liquidity,Dexs,Base,https://swapbased.finance/#/swap
 3408,Lynex V2,Dexs,Linea,https://app.lynex.fi/
 3405,Meta Pool ETH,Liquid Staking,Ethereum,https://metapool.app
@@ -3214,6 +3213,7 @@ ID,Name,Category,Chain(s),URL
 1055,FIAT DAO,Yield,Ethereum,
 1054,ChainPort,Bridge,Binance | Cardano | Ethereum | Fantom | Polygon,https://app.chainport.io
 1053,MooniSwap,Dexs,Ethereum,
+1049,Globiance,Dexs,XDC,
 1044,Stader,Liquid Staking,Binance | Ethereum | Fantom | Hedera | Near | Terra2,https://staderlabs.com
 1040,MFinance,Yield,Ethereum,
 1039,Mercurity,Dexs,Ethereum,
@@ -3811,7 +3811,6 @@ ID,Name,Category,Chain(s),URL
 7801,GRIDer Perps,Interface,N/A, 
 7799,Jade,Gamified Mining,N/A, 
 7798,Cube,Dexs,N/A, 
-7791,Thaw,Luck Games,Hyperliquid L1, 
 7788,XAUE Protocol,RWA,N/A, 
 7786,Cork Phoenix,Insurance,Ethereum,https://app.cork.tech/
 7783,KrokoSwap V2,Dexs,Kasplex, 
@@ -4135,6 +4134,7 @@ ID,Name,Category,Chain(s),URL
 7273,Gem Wallet Perps,Interface,N/A,https://gemwallet.com/
 7272,OneKey Perps,Interface,N/A,https://app.onekey.so/perps
 7271,Coinpilot,Interface,N/A,https://www.trycoinpilot.com/
+7267,SomeSwap AMM,Dexs,Monad,https://someswap.org/
 7264,Megaswap,Dexs,MegaETH,
 7261,Orynth,Launchpad,N/A,https://www.orynth.dev/
 7260,ElfomoFi,Dexs,N/A,https://docs.elfomo.fi/
@@ -5580,6 +5580,7 @@ ID,Name,Category,Chain(s),URL
 4115,NinjaVault,Yield Aggregator,Injective,
 4111,Sygma,Bridge,Ethereum,https://buildwithsygma.com
 4110,Kinetix Derivatives V2,Derivatives,Kava,https://kinetix.finance/home
+4105,Anzen V1,RWA,Ethereum,https://anzen.finance
 4104,KatanaSwap,Dexs,ZetaChain,
 4101,Omnipool,Liquid Staking,ZetaChain,
 4100,Pike V1,Lending,Arbitrum | Base | Ethereum | Optimism,https://www.pike.finance/
@@ -5766,6 +5767,7 @@ ID,Name,Category,Chain(s),URL
 3719,AITECH,Services,Binance,https://aitech.io
 3718,Accumulator,Yield Aggregator,ShimmerEVM,
 3717,Rivera Money,Liquidity Manager,Arbitrum | BSquared | CORE | Degen | Manta | Mantle | Polygon | Telos,
+3716,Swapsicle V2,Dexs,Mantle | Taiko | Telos,https://www.swapsicle.io
 3713,Touch.fan,SoFi,zkSync Era,
 3712,Spirit Farm,Farm,Base,
 3710,Algebra Integral,Dexs,N/A,https://app.algebra.finance
@@ -5917,7 +5919,6 @@ ID,Name,Category,Chain(s),URL
 3418,Meowl,Services,Ethereum,
 3417,UncleSam Protocol,Lending,Base,
 3416,Knight DEX,Dexs,Op_Bnb,https://knightdex.cc/
-3413,FourDex,Dexs,Op_Bnb,
 3412,DeNet File Token,Services,Polygon,https://denet.pro
 3411,PixelSwap,Dexs,Arbitrum | Base | Linea | Op_Bnb | Scroll | zkSync Era,
 3410,BAS3D,Yield Aggregator,Base,https://bas3d.io
@@ -7175,7 +7176,6 @@ ID,Name,Category,Chain(s),URL
 1052,Astroport Classic,Dexs,Terra,https://astroport.fi
 1051,Vortex DAO,Reserve Currency,Avalanche,
 1050,LeagueDAO,Reserve Currency,Ethereum,https://leaguedao.com/
-1049,Globiance,Dexs,XDC,
 1048,Merit Circle,Launchpad,Ethereum,https://onbeam.com/
 1047,UnusDao,Reserve Currency,Binance,
 1045,Tempus Finance,Services,Ethereum | Fantom,
