@@ -365,7 +365,7 @@ ID,Name,Category,Chain(s),URL
 7666,Scorch,Dexs,N/A, 
 7665,Pixie Chess,Gaming,N/A,https://www.pixiechess.xyz/
 7664,Xpert,Lending,Base | Ink,https://xpert.finance/
-7663,Everything,Lending,Arbitrum,https://everything.inc/
+7663,Everything,Lending,Arbitrum | Base | Binance | Ethereum,https://everything.inc/
 7662,Suibets,Prediction Market,Sui,https://suibets.com
 7661,Venum Swap,DEX Aggregator,N/A,
 7659,Auki,DePIN,N/A,https://www.auki.com/
@@ -2165,6 +2165,7 @@ ID,Name,Category,Chain(s),URL
 5789,Eggs Finance,Reserve Currency,Sonic,https://eggs.finance/
 5788,Unit,Bridge,Bitcoin | Ethereum | Monad | Plasma | Solana,https://hyperunit.xyz/deposit
 5787,Meta Pool stIP,Liquid Staking,Story,https://main.metapool.app/
+5786,Doppler Finance,CeDeFi,Ethereum | Ripple,https://app.doppler.finance
 5785,BitFi Basis,Basis Trading,Base | Binance | Bitlayer | CORE | Ethereum | Hemi,https://www.bitfi.one
 5784,Haedal AMM Protocol,Dexs,Sui,https://haedal.xyz/
 5783,Takara Lend,Lending,Sei,https://app.takaralend.com/
@@ -4104,7 +4105,6 @@ ID,Name,Category,Chain(s),URL
 3785,Polygon zkEVM Bridge,Canonical Bridge,Ethereum,https://portal.polygon.technology/bridge
 3784,Optimism Bridge,Canonical Bridge,Base | Ethereum | PGN,https://app.optimism.io/bridge/deposit
 3783,Metis Bridge,Canonical Bridge,Ethereum,https://bridge.metis.io/home
-3782,Mantle Bridge,Canonical Bridge,Ethereum,https://app.mantle.xyz/bridge
 3781,Linea Bridge,Canonical Bridge,Ethereum,https://bridge.linea.build
 3780,Base Bridge,Canonical Bridge,Ethereum,https://docs.base.org/base-chain/network-information/bridges-mainnet
 3778,Arbitrum Nova Bridge,Canonical Bridge,Ethereum,https://portal.arbitrum.io/bridge?l2ChainId=42170
@@ -4508,6 +4508,7 @@ ID,Name,Category,Chain(s),URL
 3368,Preon Finance,CDP,Arbitrum | Base | Polygon,https://app.preon.finance/borrow
 3367,PSY,CDP,Arbitrum,
 3366,CoChilli,Prediction Market,Base,
+3365,GMX V2 Perps,Derivatives,Arbitrum | Avalanche | Botanix | MegaETH,https://gmx.io/#/?ref=defillama
 3364,Themis-lsdFil,Liquid Staking,Filecoin,
 3363,HaloTrade Cosmos,Dexs,Aura Network,https://halotrade.zone/swap
 3362,Orchai LST,Liquid Staking,Orai,https://orchai.io
@@ -7569,7 +7570,6 @@ ID,Name,Category,Chain(s),URL
 163,ForTube,Lending,Binance | Ethereum | IoTeX | OKExChain | Polygon,
 162,Bancor V2.1,Dexs,Ethereum,https://app.bancor.network/
 161,BoringDAO,Cross Chain Bridge,Arbitrum | Aurora | Avalanche | Binance | Bitcoin | Boba | Doge | Ethereum | Fantom | Harmony | Heco | IoTeX | Kucoin | Litecoin | Metis | OKExChain | Oasis | Optimism | Polygon | xDai,https://www.boringdao.com/
-160,Homora V2,Leveraged Farming,Avalanche | Binance | Ethereum | Fantom | Optimism,https://homora-v2.alphaventuredao.io/
 159,Growth DeFi,Yield,Avalanche | Binance | Fantom,https://growthdefi.com/
 158,Dracula,Yield Aggregator,Ethereum,
 157,88mph,Lending,Avalanche | Ethereum | Fantom | Polygon,https://88mph.app/
@@ -7639,7 +7639,6 @@ ID,Name,Category,Chain(s),URL
 6199,Clearstar,Risk Curators,Arbitrum | Base | Ethereum | Flare | Hemi | Hyperliquid L1 | Katana | Monad | Polygon | Starknet | Unichain,https://clearstar.xyz
 6122,Blend Pools V2,Lending,Stellar,https://www.blend.capital
 5887,Extended,Derivatives,Ethereum | Starknet,https://app.extended.exchange
-5786,Doppler Finance,CeDeFi,Ethereum | Ripple,https://app.doppler.finance
 5731,Bitrue,CEX,Binance | Bitcoin | CORE | Cardano | Cosmos | Ethereum | Flare | Hedera | Linea | Mantle | Polkadot | Polygon | Ripple | Scroll | Solana | Sui | Taiko | Tron | VeChain | XDC | zkSync Era,https://www.bitrue.com
 5694,Fraxtal,Chain,Ethereum,https://frax.com/
 5558,Aster asBNB,Yield,Binance,https://www.asterdex.com/en/earn
@@ -7659,12 +7658,12 @@ ID,Name,Category,Chain(s),URL
 4042,CoinDCX,CEX,Arbitrum | Avalanche | Binance | Bitcoin | Cardano | Ethereum | Fantom | Litecoin | Optimism | Polygon | Ripple | Solana | Tron,https://coindcx.com
 3923,Derive V2,Derivatives,Arbitrum | Base | Blast | Ethereum | Hyperliquid L1 | Mode | Optimism,https://app.derive.xyz
 3788,zkSync Era txBridge,Canonical Bridge,Ethereum,
+3782,Mantle Bridge,Canonical Bridge,Ethereum,https://app.mantle.xyz/bridge
 3779,Avalanche Core Bridge,Canonical Bridge,Bitcoin | Ethereum,https://core.app/bridge/
 3572,Solv Basis Trading,Basis Trading,Arbitrum | Binance | Ethereum | Mantle | Merlin | Polygon | Solana | Soneium,https://solv.finance/
 3546,CoinEx,CEX,Bitcoin | Ethereum | Starknet | Tron,https://www.coinex.com/en
 3542,Tonstakers LSD,Liquid Staking,TON,https://tonstakers.com
 3450,Aerodrome V1,Dexs,Base,https://aerodrome.finance/
-3365,GMX V2 Perps,Derivatives,Arbitrum | Avalanche | Botanix | MegaETH,https://gmx.io/#/?ref=defillama
 3323,NAVI Lending,Lending,Sui,https://www.naviprotocol.io/
 2237,Axelar,Bridge,Agoric | Arbitrum | Archway | Aurora | Avalanche | Base | Binance | Blast | Carbon | Celestia | Celo | Chihuahua | Cosmos | Dymension | Ethereum | Evmos | Fantom | Filecoin | Fraxtal | Immutable zkEVM | Injective | Juno | Kava | Kujira | Linea | Mantle | Migaloo | Moonbeam | Neutron | Optimism | Osmosis | Persistence | Polygon | Regen | Ripple | Scroll | Secret | Sei | Stargaze | Stride | Terra2 | Umee | XPLA | XRPL EVM,https://axelar.network
 2187,Dolomite,Lending,Arbitrum | Berachain | Botanix | Ethereum | Mantle | Polygon zkEVM | X Layer,https://dolomite.io
@@ -7676,5 +7675,6 @@ ID,Name,Category,Chain(s),URL
 326,Beefy,Yield Aggregator,Arbitrum | Aurora | Avalanche | Base | Berachain | Binance | Canto | Celo | Cronos | Ethereum | Fantom | Fraxtal | Fuse | Harmony | Heco | Hyperliquid L1 | Kava | Linea | Lisk | Manta | Mantle | MegaETH | Metis | Mode | Monad | Moonbeam | Moonriver | Oasis | Optimism | Plasma | Polygon | Polygon zkEVM | RSK | Saga | Scroll | Sei | Sonic | re.al | xDai | zkSync Era,https://beefy.com
 270,Liquity V1,CDP,Ethereum,https://www.liquity.org/
 249,Stake DAO,Yield,Arbitrum | Avalanche | Base | Ethereum | Fraxtal | Linea | Optimism | Polygon | Sonic | xDai,https://stakedao.org/
+160,Homora V2,Leveraged Farming,Avalanche | Binance | Ethereum | Fantom | Optimism,https://homora-v2.alphaventuredao.io/
 113,Yearn Finance,Yield Aggregator,Arbitrum | Base | Ethereum | Fantom | Katana | Optimism | Polygon,https://yearn.fi/
 2,WBTC,Bridge,Bitcoin,https://wbtc.network/
