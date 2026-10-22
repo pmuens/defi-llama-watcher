@@ -1,4 +1,7 @@
 ID,Name,Category,Chain(s),URL
+9190,Startale USD,Stablecoin Wrapper,Soneium,https://usd.startale.com/
+9189,URM,CDP,Base,https://ultraroundmoney.com
+9188,RNT Lend,Lending,Polygon,https://app.reental.co/
 9181,Lighter LLP,Derivatives,zkLighter,https://app.lighter.xyz
 9180,Hyperliquid Earn,Lending,Hyperliquid L1,https://app.hyperliquid.xyz/earn
 9178,GnoSwap,Dexs,Gno.land,
@@ -69,7 +72,7 @@ ID,Name,Category,Chain(s),URL
 8857,SundaeSwap V4,Dexs,Cardano,https://sundae.fi/
 8856,Quantum Pools,Liquidity Manager,Base | Binance | Robinhood Chain,https://quantumpools.io
 8852,Arrowfarm,Liquidity Manager,Robinhood Chain,https://www.arrowfarm.io
-8847,TRUSS LP,Liquidity Manager,Base,
+8850,Kaleido Swap,Dexs,Arc,https://kaleidofi.xyz
 8842,Mercurifi Launchpad,Launchpad,Arc,https://launch.mercuri.finance/
 8840,zk.money,Privacy,Ethereum,https://zk.money
 8838,moto.fun,Launchpad,Ethereum,https://moto.fun
@@ -120,7 +123,6 @@ ID,Name,Category,Chain(s),URL
 8727,JustLend sTRX,Liquid Staking,Tron,https://app.justlend.org/strx?lang=en-US
 8722,Genius.fun,Launchpad,Binance,https://genius.fun
 8718,StonkBrokers Smart LP,Liquidity Manager,Arbitrum | Robinhood Chain,https://www.stonkbrokers.cash
-8717,StonkBrokers Nightshades,Launchpad,Robinhood Chain,https://www.stonkbrokers.cash
 8713,Hex Bond,Farm,Pulse,
 8712,Buglefamily,Dexs,Arc,
 8711,Mog,Derivatives,Robinhood Chain,https://app.mog.xyz/
@@ -250,7 +252,6 @@ ID,Name,Category,Chain(s),URL
 8461,Delta,Liquidity Manager,Robinhood Chain,https://deltaliquidity.app/
 8458,HRUSD,Basis Trading,Base,https://hyperoute.xyz/
 8457,Syntetika,Risk Curators,Base,https://syntetika.io/
-8455,Magpie Capital,Lending,Solana,https://magpie.capital
 8452,Deepstate,Dexs,Robinhood Chain,https://deepstate.sh/
 8451,Moocon,Yield Lottery,Solana,https://moocon.xyz/
 8449,Wise Token,Yield,Ethereum,https://app.wisetoken.com/
@@ -470,7 +471,6 @@ ID,Name,Category,Chain(s),URL
 7908,lisAster,Yield Aggregator,Binance,https://lista.org/lis-aster/
 7907,Euclid Protocol,Cross Chain Bridge,0G | Arbitrum | Base | Binance | Ethereum | Hyperliquid L1 | Monad | Optimism | Polygon | Somnia,https://euclidprotocol.io/
 7902,PRED,Prediction Market,Base,https://www.pred.app/
-7901,death.fun,Luck Games,Abstract,https://death.fun
 7897,BTCD,Yield,Arbitrum | Ethereum,https://btcd.fi/
 7896,DIEM Relay,Liquid Staking,Base,https://diem-relay.com
 7892,Turbo Loop,Yield,Binance,https://turboloop.io
@@ -811,6 +811,7 @@ ID,Name,Category,Chain(s),URL
 7051,Futarchy AMM,Dexs,Solana,https://metadao.fi
 7050,Sega Swap,Dexs,Solana,https://sega.so/
 7047,ShMonad,Liquid Staking,Monad,https://shmonad.xyz/
+7046,Udon Staking,Liquid Staking,Chromia,https://udonfi.xyz/
 7042,Kintsu,Liquid Staking,Hyperliquid L1 | Monad,https://kintsu.xyz/
 7041,LeverUp,Derivatives,Monad,https://app.leverup.xyz
 7039,iAero Protocol,Liquid Staking,Base,https://app.iaero.finance/
@@ -833,7 +834,6 @@ ID,Name,Category,Chain(s),URL
 7005,Neverland,Lending,Monad,https://neverland.money
 7002,Gate Fun,Launchpad,GateLayer,https://web3.gate.com/en/gatefun
 6998,Fufuture V2,Options,Acala | Base | Binance | Conflux | Op_Bnb,https://www.fufuture.io
-6997,Yuzu Money,Yield,Ethereum | Monad | Plasma,https://app.yuzu.money
 6996,Dnax,Dexs,Binance,https://dnax.us/
 6992,Definitive Yield Vaults,Yield,Arbitrum | Avalanche | Base | Ethereum | Optimism | Polygon,https://www.definitive.fi
 6991,Valdora Finance,Liquid Staking,ZIGChain,https://www.valdora.finance/
@@ -997,7 +997,7 @@ ID,Name,Category,Chain(s),URL
 6673,Gala Swap,Dexs,Gala,https://swap.gala.com/
 6672,SpinUp DEX,Dexs,Hyperliquid L1,https://www.spinup.zone/dex/swap
 6671,SpinUp Launchpad,Launchpad,Hyperliquid L1,https://www.spinup.zone/meme
-6670,Singularity Finance,Yield,Base | Binance | Ethereum,https://singularityfinance.ai/
+6670,Singularity Finance,Yield,Arbitrum | Base | Binance | Ethereum,https://singularityfinance.ai/
 6668,Belief Market,Prediction Market,Base | Binance,https://www.belief.market/
 6666,WinnieSwap,Dexs,Berachain,https://winnieswap.com
 6660,W-DEX,Dexs,Polygon,https://w-dex.ai/
@@ -1145,7 +1145,6 @@ ID,Name,Category,Chain(s),URL
 6367,River4Fun,Farm,Binance,https://app.riverai.inc/fun
 6366,Hydrex Omni,Dexs,Base,https://www.hydrex.fi?anchorRef=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10
 6365,Hydrex Integral,Dexs,Base,https://www.hydrex.fi?anchorRef=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10
-6362,Auro Finance,CDP,Aptos,http://auro.finance/
 6361,Myth Finance dualSTAKE,Liquid Staking,Algorand,https://myth.finance/dualSTAKE
 6359,SSV Network,Staking Pool,Ethereum,https://ssv.network/
 6357,The Rig,Liquid Staking,Fuel,https://rig.st/
@@ -1440,7 +1439,6 @@ ID,Name,Category,Chain(s),URL
 5808,Meta Pool mpSOL,Liquid Restaking,Solana,https://www.metapool.app/stake?token=sol
 5807,GoPlus Locker V2,Token Locker,Arbitrum | Base | Binance | Ethereum,https://gopluslabs.io
 5805,R-Planet,Gaming,Wax,
-5803,Ginseng Swap,Dexs,Conflux,
 5801,Cadabra Finance,Yield Aggregator,Arbitrum | Binance | Sonic,
 5799,Liquidity House,Prediction Market,Etherlink,https://liquidity.house
 5798,Beradrome,Yield,Berachain,https://www.beradrome.com
@@ -1714,6 +1712,7 @@ ID,Name,Category,Chain(s),URL
 5319,HLiquity,CDP,Hedera,
 5318,g8keep,Launchpad,Base,
 5317,Fluid DEX,Dexs,Arbitrum | Base | Ethereum | Plasma | Polygon,https://www.fluid.io/
+5316,exSat Staking BTC,Bridge,Bitcoin,https://exsat.network/app/bridge
 5315,Clober Liquidity Vault,Dexs,Base | Monad,https://app.clober.io/
 5313,Basic,Lending,IoTeX,
 5311,SpringSui,Liquid Staking,Sui,https://springsui.com/
@@ -1822,7 +1821,6 @@ ID,Name,Category,Chain(s),URL
 5107,Amply Finance,Lending,Cronos zkEVM,https://amply.finance
 5105,Adrastea Yield,Yield,Solana,https://adrastea.fi
 5104,TonStable,CDP,TON,
-5099,Swapline V2,Dexs,Base,
 5097,Lombard LBTC,Restaked BTC,Bitcoin | Ethereum,https://www.lombard.finance/app/stake/?referrer=ssybnl
 5096,Torch Dexs,Dexs,TON,https://torch.finance
 5092,Ethervista,Dexs,Ethereum,https://ethervista.app
@@ -1922,6 +1920,7 @@ ID,Name,Category,Chain(s),URL
 4889,DeSyn Basis Trading,Basis Trading,AILayer | Arbitrum | BSquared | Binance | Bitlayer | CORE | Goat | HashKey Chain | Hemi | Linea | Merlin | Mode | Plume Mainnet | Scroll | exSat | zkLink,https://www.desyn.io/#/
 4888,SparkDEX V3,Dexs,Flare,https://sparkdex.ai/home
 4887,SparkDEX V2,Dexs,Flare,https://sparkdex.ai/home
+4882,Usual USD0,RWA,Ethereum,https://usual.money
 4881,Powercity Flex Protocol,CDP,Pulse,
 4879,Clearpool TPOOL,RWA,Ethereum | Flare,https://vaults.clearpool.finance/
 4877,Vesu,Lending,Starknet,https://www.vesu.xyz
@@ -2113,7 +2112,6 @@ ID,Name,Category,Chain(s),URL
 4529,OpenEX,Dexs,CORE,
 4528,Seismic,Lending,Blast,
 4525,eBTC Protocol,CDP,Ethereum,
-4524,Aerodrome Slipstream,Dexs,Base,https://aerodrome.finance/
 4523,Open Dollar,CDP,Arbitrum,https://www.opendollar.com/
 4520,BitGenie Farm,Farm,Merlin,
 4518,Colend Protocol,Lending,CORE,https://www.colend.xyz
@@ -3233,7 +3231,7 @@ ID,Name,Category,Chain(s),URL
 2362,Hedgehog,Liquidity Manager,Ethereum,
 2361,Mummy Finance,Derivatives,Arbitrum | Base | Fantom | Optimism,https://www.mummy.finance
 2356,El Dorado Exchange,Derivatives,Arbitrum | Binance,
-2352,Bitget,CEX,Arbitrum | Arc | Avalanche | Base | Binance | Bitcoin | Cardano | Cronos | Doge | Ethereum | Fantom | Hyperliquid L1 | Kava | Klaytn | Linea | MegaETH | Metis | Monad | Morph | Near | Optimism | Plasma | Polygon | Ripple | Robinhood Chain | Scroll | Sei | Solana | Sonic | Starknet | Sui | TON | Tron | World Chain | zkSync Era,https://www.bitget.com
+2352,Bitget,CEX,Alephium | Algorand | Allora | Aptos | Arbitrum | Arc | Arweave | Astar | Avalanche | BSV Blockchain | Babylon Genesis | BandChain | Base | Binance | Bitcoin | Bittensor | Canton | Cardano | Celestia | Conflux | Cosmos | Cronos | Doge | EOS | Elrond | Ethereum | Fantom | Fetch Hub | Filecoin | Harmony | Hedera | Hyperliquid L1 | ICP | Initia | Injective | Kaspa | Kava | Klaytn | Kusama | Linea | Litecoin | Mantra | Massa | MegaETH | Metis | Mina | Monad | Morph | Near | Neo3 | Nervos | Oasis | Ontology | Optimism | Orai | Osmosis | Pi Network | Plasma | PlatON | Polkadot | Polygon | Proton | Qubic | Ripple | Robinhood Chain | Scroll | Sei | Solana | Sonic | Stacks | Starknet | Stellar | Sui | TON | Terra | Tezos | Thorchain | Tron | World Chain | XDC | XION | Zcash | dYdX | zkSync Era,https://www.bitget.com
 2351,PepeTeam sWAVES,Liquid Staking,Waves,https://swaves.pepe.team/
 2350,KyotoSwap,Dexs,Binance,
 2348,InfiniTORR,Dexs,Bittorrent,
@@ -3259,7 +3257,7 @@ ID,Name,Category,Chain(s),URL
 2318,Stabl.fi V1,Yield,Polygon,
 2317,Archly V1,Dexs,Arbitrum | Arbitrum Nova | Base | Binance | Fantom | Kava | Optimism | Polygon | Telos,https://archly.fi
 2316,Meter Passport,Bridge,Avalanche | Binance | Ethereum | Meter | Moonbeam | Moonriver | Polygon | Theta,https://passport.meter.io
-2314,Gate,CEX,0G | Abstract | Agoric | AirDAO | Akash | Aleo | Alephium | Algorand | Allora | ApeChain | Aptos | Arbitrum | Arbitrum Nova | Arweave | Astar | Aura Network | Aurora | Avalanche | BEVM | BSV Blockchain | BSquared | Babylon Genesis | Bahamut | BandChain | Base | Berachain | Bifrost | Binance | Bitcoin | Bitkub | Bitlayer | Bittensor | Bittorrent | Blast | Boba | CORE | Canton | Cardano | Celestia | Celo | Chiliz | Conflux | Constellation | Cosmos | Coti | Cronos | Cube | Dash | Decred | Doge | Dymension | ENULS | EOS | EOS EVM | Elrond | EnergyWeb | Ergo | Ethereum | EthereumClassic | Etherlink | Evmos | Fantom | Fetch Hub | Flare | Fogo | Fuel | Fuse | GateLayer | Gravity | HAQQ | HashKey Chain | Heco | Hedera | Hyperliquid L1 | ICP | IOTA | Injective | IoTeX | Kadena | Kardia | Kaspa | Kava | Klaytn | Kroma | LUKSO | Linea | Litecoin | Manta | Mantle | Mantra | Matchain | MegaETH | MemeCore | Merlin | Meter | Metis | Mina | Mode | Monad | Moonbeam | Moonriver | Near | Neo3 | Neon | Nervos | Neutron | OKExChain | Oasis | Oasys | Op_Bnb | Optimism | Osmosis | Peaq | Pi Network | Plasma | Plume Mainnet | Polkadot | Polygon | Polygon zkEVM | Qubic | REI | RSK | Radix | Ripple | Robinhood Chain | Ronin | Saga | Scroll | Sei | Shibarium | Solana | Somnia | Sonic | Stable | Stacks | Starknet | Stellar | Story | Sui | Supra | TON | Taiko | Taraxa | Terra | Tezos | Theta | Thorchain | ThunderCore | TomoChain | Tron | Umee | Vana | VeChain | WEMIX | World Chain | X Layer | XDC | XPLA | Xai | ZIGChain | ZetaChain | Zircuit | dYdX | zkLink | zkSync Era,https://www.gate.com
+2314,Gate,CEX,0G | Abstract | Agoric | AirDAO | Akash | Aleo | Alephium | Algorand | Allora | ApeChain | Aptos | Arbitrum | Arbitrum Nova | Arweave | Astar | Aura Network | Aurora | Avalanche | BEVM | BSV Blockchain | BSquared | Babylon Genesis | Bahamut | BandChain | Base | Berachain | Bifrost | Binance | Bitcoin | Bitkub | Bitlayer | Bittensor | Bittorrent | Blast | Boba | CORE | Canton | Cardano | Casper | Celestia | Celo | Chiliz | Conflux | Constellation | Cosmos | Coti | Cronos | Cube | Dash | Decred | Doge | Dymension | ENULS | EOS | EOS EVM | Elrond | EnergyWeb | Ergo | Ethereum | EthereumClassic | Etherlink | Evmos | Fantom | Fetch Hub | Flare | Flux | Fogo | Fuel | Fuse | GateLayer | Gravity | HAQQ | HashKey Chain | Heco | Hedera | Hyperliquid L1 | ICP | IOTA | Injective | IoTeX | Kadena | Kardia | Kaspa | Kava | Klaytn | Kroma | LUKSO | Linea | Litecoin | Manta | Mantle | Mantra | Matchain | MegaETH | MemeCore | Merlin | Meter | Metis | Mina | Mode | Monad | Moonbeam | Moonriver | Near | Neo3 | Neon | Nervos | Neutron | OKExChain | Oasis | Oasys | Op_Bnb | Optimism | Osmosis | Peaq | Pi Network | Plasma | Plume Mainnet | Polkadot | Polygon | Polygon zkEVM | Qubic | REI | RSK | Radix | Ripple | Robinhood Chain | Ronin | Saga | Scroll | Sei | Shibarium | Solana | Somnia | Sonic | Stable | Stacks | Starknet | Stellar | Story | Sui | Supra | TON | Taiko | Taraxa | Terra | Tezos | Theta | Thorchain | ThunderCore | TomoChain | Tron | Umee | Vana | VeChain | WEMIX | World Chain | X Layer | XDC | XPLA | Xai | ZIGChain | ZetaChain | Zircuit | dYdX | zkLink | zkSync Era,https://www.gate.com
 2310,NBX,CEX,Bitcoin | Cardano | Ethereum,https://nbx.com
 2309,Indigo,CDP,Cardano,https://app.indigoprotocol.io/
 2308,Jito Liquid Staking,Liquid Staking,Solana,https://jito.network
@@ -3717,7 +3715,6 @@ ID,Name,Category,Chain(s),URL
 1334,PearZap,Yield,Binance | Fantom | Polygon,
 1331,DeepLock,Launchpad,Binance,
 1327,Astar dApps Staking,Chain,Astar,https://astar.network
-1324,FuryLabs Finance,Farm,Fantom,
 1322,Alligator,Dexs,Avalanche,
 1315,NeoBurger,Liquid Staking,NEO,https://app.neoburger.io/en/home/
 1312,Epsylon Finance,Yield Aggregator,Fantom,
@@ -3838,6 +3835,7 @@ ID,Name,Category,Chain(s),URL
 1020,Arkadiko,CDP,Stacks,https://arkadiko.finance
 1019,OpenDAO,Algo-Stables,Binance | Ethereum,
 1018,Gains Network,Derivatives,ApeChain | Arbitrum | Base | MegaETH | Polygon,https://gains.trade/
+1007,SafeSwap,Dexs,Ethereum | Polygon,
 1004,Colony,Yield,Avalanche,
 1000,Brinc Finance,Yield,Arbitrum,
 996,OCP Finance,Lending,Binance,
@@ -4072,6 +4070,7 @@ ID,Name,Category,Chain(s),URL
 534,Overtime,Prediction Market,Arbitrum | Base | Binance | Ethereum | Optimism | Polygon,https://www.overtimemarkets.xyz
 533,De1,DEX Aggregator,Arbitrum | Avalanche | Binance | Ethereum | Kava | Manta | Polygon | RSK,https://app.de1.exchange/swap/eth/ETH/USDT
 532,Twindex,Options,Binance,
+529,ShadeCash,Privacy,Fantom,
 528,Symmetric,Dexs,Celo | Etherlink | Meter | Taiko | Telos | xDai,
 527,KSwap Finance,Dexs,OKExChain,
 526,Zabu Finance,Yield Aggregator,Avalanche,
@@ -4219,6 +4218,7 @@ ID,Name,Category,Chain(s),URL
 334,MDEX,Dexs,Binance | Bittorrent | Heco,https://mdex.com/
 332,Bao Masterchef V1,Farm,Ethereum | xDai,https://baofinance.io/
 331,MoneyOnChain,Dual-Token Stablecoin,RSK,https://moneyonchain.com/
+330,Aquarius,CDP,Fantom,
 329,Sovryn Dex,Dexs,BOB | RSK,https://www.sovryn.app/
 328,SteakBank Finance,Liquid Staking,Binance,
 327,YouSwap,Dexs,Binance | Ethereum | Heco,
@@ -4374,6 +4374,7 @@ ID,Name,Category,Chain(s),URL
 112,Harvest Finance,Yield Aggregator,Arbitrum | Base | Ethereum | Polygon | zkSync Era,https://harvest.finance/
 3,Curve DEX,Dexs,Arbitrum | Arc | Aurora | Avalanche | Base | Binance | Celo | Corn | Ethereum | Etherlink | Fantom | Fraxtal | Harmony | Hyperliquid L1 | Ink | Kava | Mantle | Monad | Moonbeam | Optimism | Plasma | Plume Mainnet | Polygon | Robinhood Chain | Sonic | Stable | TAC | Taiko | Unichain | X Layer | XDC | xDai,https://curve.finance
 <5471>,OpenTrade,RWA,Avalanche | Ethereum | Plume Mainnet,https://www.opentrade.io
+9187,Stockereum,Launchpad,N/A,
 9186,Gloam,Privacy,N/A,
 9185,sasa,Launchpad,N/A,
 9184,ARX Perps,Interface,N/A,https://arx.trade
@@ -4637,9 +4638,9 @@ ID,Name,Category,Chain(s),URL
 8854,GDEX Perps,Derivatives,N/A,https://gdex.pro/
 8853,GDEX Spot,Dexs,N/A,https://gdex.pro/
 8851,Kaleido Lending,Lending,Arc,https://kaleidofi.xyz
-8850,Kaleido Swap,Dexs,Arc,https://kaleidofi.xyz
 8849,MEV-X Homelander,Liquidity Automation,N/A,https://mev-x.com
 8848,Orbio,AI Agents,Robinhood Chain,https://www.orbio.so/
+8847,TRUSS LP,Liquidity Manager,Base,
 8846,Flipper Perps,Interface,N/A,https://app.flpp.io/trade/
 8845,BTB Finance,Liquidity Manager,Base | Robinhood Chain,
 8844,Lockcurve,Launchpad,N/A,
@@ -4717,6 +4718,7 @@ ID,Name,Category,Chain(s),URL
 8721,StonkBrokers Safe Launch,Launchpad,N/A,https://www.stonkbrokers.cash
 8720,StonkBrokers Broker Box,Luck Games,N/A,https://www.stonkbrokers.cash
 8719,StonkBrokers Anvil,NftFi,N/A,https://www.stonkbrokers.cash
+8717,StonkBrokers Nightshades,Launchpad,Robinhood Chain,https://www.stonkbrokers.cash
 8716,Asseto NGI+,RWA,N/A,https://reale-assets.gitbook.io/reale/product/ngi+
 8715,Charity Billionaire,Yield Lottery,Base,
 8714,Load,Launchpad,Arc,https://load.fun
@@ -4845,6 +4847,7 @@ ID,Name,Category,Chain(s),URL
 8460,HyperHAM,Reserve Currency,N/A,https://hyperham.finance
 8459,Xona Agent,Farm,Solana,https://stake.xona-agent.com
 8456,Tristero Fill,DEX Aggregator,N/A,https://www.tristero.com/
+8455,Magpie Capital,Lending,Solana,https://magpie.capital
 8454,Rujira Trade,Dexs,N/A,https://rujira.network
 8453,PRIZM,Trading App,N/A,https://www.prizm.trading
 8450,StonkFun,Launchpad,N/A,https://www.stonkfun.xyz/
@@ -5171,6 +5174,7 @@ ID,Name,Category,Chain(s),URL
 7905,CROSS Staking,Staking Pool,CROSS,https://stake.ogfcorp.com/
 7904,Galaxy Curation,Risk Curators,Arc | Base | Ethereum,https://www.galaxy.com/
 7903,MegaChad,Gamified Mining,MegaETH,https://megachad.xyz
+7901,death.fun,Luck Games,Abstract,https://death.fun
 7900,SwapWizard,DEX Aggregator,N/A,https://swapwizard.xyz/
 7899,Telemetry,Trading App,N/A,https://telemetry.io/
 7895,Armitage by Wintermute,Risk Curators,Ethereum,https://armitage.wintermute.com
@@ -5188,7 +5192,7 @@ ID,Name,Category,Chain(s),URL
 7872,MemeMax,Interface,N/A,https://mememax.com/
 7871,Aegis JUSD,Basis Trading,N/A,https://app.aegis.im
 7870,OpenChat,SoFi,N/A,https://oc.app/
-7868,Reental,RWA,N/A,https://www.reental.co/en
+7868,Reental RWA,RWA,N/A,https://www.reental.co/en
 7867,Tradoor Perps Aggregator,Interface,N/A,https://tradoor0.xyz
 7860,Durianfun AMM,Dexs,N/A,https://durianfun.xyz/
 7859,BendDAO Lending V2,NFT Lending,N/A,https://www.benddao.xyz
@@ -5654,7 +5658,6 @@ ID,Name,Category,Chain(s),URL
 7052,Quantus Lend,Lending,MegaETH | Monad,
 7049,Gate Perp,Derivatives,N/A,https://www.gatedex.com
 7048,AntFun,Trading App,N/A,https://ant.fun
-7046,Udon Staking,Liquid Staking,Chromia,https://udonfi.xyz/
 7045,Portal To Bitcoin,Bridge,Ethereum,https://portaltobitcoin.com
 7044,AethonSwap,Dexs,Monad,
 7043,City,SoFi,Obyte,https://city.obyte.org/
@@ -5681,6 +5684,7 @@ ID,Name,Category,Chain(s),URL
 7001,RubyScore,Services,N/A,https://rubyscore.io/
 7000,Kodiak Perps,Interface,N/A,https://perps.kodiak.finance/
 6999,Fufuture Contract,Derivatives,Base | Binance | Conflux | ENI | X Layer,https://www.fufuture.io
+6997,Yuzu Money,Yield,Ethereum | Monad | Plasma,https://app.yuzu.money
 6995,0xRoulette Protocol,Luck Games,Solana,
 6990,Etherfuse,RWA,N/A,https://www.etherfuse.com/
 6988,Baumz,Interface,N/A,https://baumz.com
@@ -5979,6 +5983,7 @@ ID,Name,Category,Chain(s),URL
 6374,Liquidswap HL,DEX Aggregator,N/A,https://liqd.ag/
 6369,Universal Bridge,Bridge,Ethereum,https://www.universal.xyz
 6363,CroVegas,Luck Games,Cronos,https://www.crovegas.fun/
+6362,Auro Finance,CDP,Aptos,http://auro.finance/
 6360,TR ENERGY,Services,N/A,https://tr.energy
 6358,EulerSwap,Dexs,N/A,https://app.euler.finance/swap
 6356,Status,Privacy,N/A,https://status.app/
@@ -6187,7 +6192,7 @@ ID,Name,Category,Chain(s),URL
 5891,Interest DEX,Dexs,Movement,https://www.interest.xyz/
 5890,Mosaic Aggregator,DEX Aggregator,N/A,https://mosaic.ag
 5888,Magnify Cash,Lending,World Chain,
-5887,Extended Perps,Derivatives,Ethereum | Starknet,https://app.extended.exchange
+5887,Extended Perps,Derivatives,Arc | Ethereum | Starknet,https://app.extended.exchange
 5886,TradeWiz,Telegram Bot,N/A,
 5880,Ooga Booga,DEX Aggregator,N/A,https://app.oogabooga.io
 5879,Axion Finance V3,Dexs,Taiko,
@@ -6226,6 +6231,7 @@ ID,Name,Category,Chain(s),URL
 5809,Flashbots,MEV,N/A,https://www.flashbots.net/
 5806,Bloom Trading Bot,Gaming,N/A,https://www.bloombot.app/
 5804,Fan Token Staking,Farm,Chiliz,https://socios.com/
+5803,Ginseng Swap,Dexs,Conflux,
 5802,StellaSwap V4,Dexs,Moonbeam,https://stellaswap.com
 5800,Peppercoin,Governance Incentives,Chiliz,https://www.peppercoin.com
 5797,Knightrade,Onchain Capital Allocator,Arbitrum | Ethereum | Solana,https://knightrade.io/
@@ -6428,7 +6434,6 @@ ID,Name,Category,Chain(s),URL
 5327,unagiswap,Dexs,Taiko,
 5326,Astros,DEX Aggregator,N/A,https://astros.ag
 5322,MON Protocol,Gaming,Ethereum,https://monprotocol.ai
-5316,exSat Staking BTC,Bridge,Bitcoin,https://exsat.network/app/bridge
 5314,Quenta,Derivatives,IoTeX,https://app.quenta.io/
 5312,Avalon USDa,CDP,Berachain | Binance | Ethereum | Klaytn | Mantle | Sonic,https://www.avalonfinance.xyz
 5310,KYEX,Dexs,N/A,
@@ -6532,6 +6537,7 @@ ID,Name,Category,Chain(s),URL
 5102,MuggleLink,Services,TON,https://www.muggle.link
 5101,Avalon CeDeFi,Anchor BTC,Ethereum,https://www.avalonfinance.xyz
 5100,LemonX,Derivatives,CORE,
+5099,Swapline V2,Dexs,Base,
 5098,Orion Aggregator,DEX Aggregator,N/A,
 5095,Perfect Pool,Prediction Market,Base | Hyperliquid L1,
 5094,GasPump,Launchpad,TON,
@@ -6642,7 +6648,6 @@ ID,Name,Category,Chain(s),URL
 4886,Opal DeFi,Yield Aggregator,Ethereum,
 4884,Kosmos,Yield,AirDAO,
 4883,Kawa Finance,Lending,Sei,https://kawa.finance
-4882,Usual USD0,RWA,Ethereum,https://usual.money
 4880,Molten V4,Dexs,CORE,
 4876,Fixes Launchpad,Launchpad,Flow,https://fixes.world
 4874,re.al protocol,RWA,re.al,https://www.re.al
@@ -6798,6 +6803,7 @@ ID,Name,Category,Chain(s),URL
 4534,Bitlen Finance,Lending,BSquared | CORE,
 4527,Neptunex,Dexs,Blast,
 4526,Defiway,Wallets,N/A,https://defiway.com
+4524,Aerodrome Slipstream,Dexs,Base,https://aerodrome.finance/
 4522,Beam,Chain,N/A,https://onbeam.com/
 4521,Helix Markets,Dexs,ICP,
 4519,zkLite Exchange,Dexs,zkSync,https://zklite.io
@@ -8303,6 +8309,7 @@ ID,Name,Category,Chain(s),URL
 1328,Astral Farm,Farm,Fantom,
 1326,Snowtomb,Algo-Stables,Avalanche,https://snowtomb.com/
 1325,Magik Finance AlgoStable,Algo-Stables,Fantom,
+1324,FuryLabs Finance,Farm,Fantom,
 1323,Poopsicle,Yield,Fantom,
 1321,Comfy Money,Algo-Stables,Harmony,
 1320,Railgun,Privacy,Arbitrum | Binance | Ethereum | Polygon,https://railgun.org
@@ -8483,7 +8490,6 @@ ID,Name,Category,Chain(s),URL
 1010,Ice DAO,Reserve Currency,Avalanche,
 1009,CheeseDAO,Reserve Currency,Harmony,https://linktr.ee/cheesegame
 1008,Soy Finance,Dexs,Binance | Bittorrent | Callisto | EthereumClassic,
-1007,SafeSwap,Dexs,Ethereum | Polygon,
 1006,Thorstarter,Launchpad,Ethereum,
 1003,WagyuSwap,Dexs,Velas,
 1002,YokaiSwap,Dexs,Godwoken | GodwokenV1,
@@ -8691,7 +8697,6 @@ ID,Name,Category,Chain(s),URL
 539,Carbon Finance,Farm,Arbitrum,
 531,Kuu Finance,Dexs,Avalanche,
 530,Avaware,Yield,Avalanche,
-529,ShadeCash,Privacy,Fantom,
 524,Ramp,CDP,Avalanche | Binance | Ethereum | Polygon,
 523,CryptoYieldFocus,Farm,Avalanche,
 522,Volta Club,Reserve Currency,Avalanche | Ethereum,https://volta.club/
@@ -8739,7 +8744,6 @@ ID,Name,Category,Chain(s),URL
 340,Olympus DAO,Reserve Currency,Ethereum,https://olympusdao.finance/
 336,Sifchain,Dexs,Sifchain,
 333,O3 Swap,Cross Chain Bridge,Arbitrum | Astar | Avalanche | Binance | Bitgert | Celo | Cube | Ethereum | Fantom | Kucoin | Metis | Optimism | Polygon | xDai,
-330,Aquarius,CDP,Fantom,
 326,Beefy,Yield Aggregator,Arbitrum | Arc | Aurora | Avalanche | Base | Berachain | Binance | Canto | Celo | Cronos | Ethereum | Fantom | Fraxtal | Fuse | Harmony | Heco | Hyperliquid L1 | Kava | Linea | Lisk | Manta | Mantle | MegaETH | Metis | Mode | Monad | Moonbeam | Moonriver | Oasis | Optimism | Plasma | Polygon | Polygon zkEVM | RSK | Robinhood Chain | Saga | Scroll | Sei | Sonic | re.al | xDai | zkSync Era,https://beefy.com
 322,Yogi Finance,Dexs,Binance | Polygon,
 321,Ram Protocol,Lending,ThunderCore,
